@@ -6,8 +6,8 @@ namespace aoc2021
     {
         static void Main(string[] args)
         {
-            var day01 = new Day01().Execute();
-            Console.WriteLine(day01);
+            Console.WriteLine(new Day01().Execute());
+            Console.WriteLine(new Day02().Execute());
         }
     }
 }
