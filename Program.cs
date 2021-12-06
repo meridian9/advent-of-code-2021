@@ -8,6 +8,7 @@ namespace aoc2021
         {
             Console.WriteLine(new Day01().Execute());
             Console.WriteLine(new Day02().Execute());
+            Console.WriteLine(new Day03().Execute());
         }
     }
 }
